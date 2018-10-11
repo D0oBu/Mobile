@@ -1,0 +1,3 @@
+rootProject.name = 'mapelkk4'
+
+include ':app'
